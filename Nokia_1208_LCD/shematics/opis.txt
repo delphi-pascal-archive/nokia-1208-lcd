@@ -1,0 +1,6 @@
+Printer Port
+1 pin - Strobe - Vcc inverted
+2 pin - D0 - SDA
+3 pin - D1 - CLK
+4 pin - D2 - CS
+5 pin - D3 - RST
